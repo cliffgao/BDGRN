@@ -5,9 +5,7 @@ Using Bayesian correlations to infer gene regulatory network
 ## Workflow of the BDGRN
 
 
-
-![](Fig1.png)
-
+![Workflow of the method](/fig1.png "BDGRN")
 ## Installation
 
 BDGRN require packages
@@ -28,7 +26,7 @@ BDGRN require packages
 
 If you need to install the package, for exmaple, "rsvd", You can run&#x20;
 
-install.packages("rsvd")
+`install.packages("rsvd")`
 
 ## Datasets
 
@@ -55,7 +53,4 @@ Mengting Yao 1420608136\@qq.com
 
 Jianzhao Gao gaojz\@nankai.edu.cn
 
-\-
 
-&#x20;
-# BDGRN
